@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Lucas Santos
 
-<!--
-**lucassps0/lucassps0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação  
+💻 Apaixonado por programação e tecnologia  
+🚀 Atualmente aprendendo Java , c# .
 
-Here are some ideas to get you started:
+## 🧠 Tecnologias que estou estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- C#
+- Git e GitHub
+- Programação Orientada a Objetos (POO)
+- APIs REST
+- JSON
+- HTML, CSS e JavaScript
+- Lógica de Programação
+
+## 📂 Projetos
+ 
+🔹 Sistema de sorteio de times  
+🔹 App de ponto de trabalho  
+
+## 📫 Contato
+
+- Email: (lucas.pena.santos124@gmail.com)
