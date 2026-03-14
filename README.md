@@ -13,7 +13,8 @@
 - APIs REST
 - JSON
 - HTML, CSS e JavaScript
-- Lógica de Programação
+- Boas práticas de programação
+- Estrutura de Dados
 
 ## 📂 Projetos
  
