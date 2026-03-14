@@ -1,9 +1,3 @@
-# 👋 Olá! Eu sou Lucas Santos
-
-🎓 Estudante de Sistemas de Informação  
-💻 Apaixonado por programação e tecnologia  
-🚀 Atualmente aprendendo Java , c# .
-
 <h1 align="center">👋 Olá! Eu sou Lucas Santos</h1>
 
 <p align="center">
@@ -46,12 +40,6 @@
 ## 📫 Contato
 
 📧 Email: [lucas.pena.santos124@gmail.com](mailto:lucas.pena.santos124@gmail.com)
-
----
-
-## 🏆 Conquistas
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=lucassps0\&theme=tokyonight)
 
 ---
 
